@@ -1,4 +1,4 @@
-puplic class Hellow-World {
+public class HelloWorld {
     public static void main(string[]args) {
         // This is the main method, the entry point of the program
         System.out.println("Hello,World!"); // This line prints "Hello, World!" to the console
